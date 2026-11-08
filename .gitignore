@@ -1,0 +1,8 @@
+# Never published: private reference material, PDFs, tool and editor state.
+ref/
+*.pdf
+*.PDF
+.claude/
+__pycache__/
+.DS_Store
+*~
